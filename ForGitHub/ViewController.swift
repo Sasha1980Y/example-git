@@ -23,7 +23,7 @@ class ViewController: UIViewController {
         print("2 add comment")
         print("2 not add command")
 
-        
+        print("add after go to master")
         
         // Do any additional setup after loading the view, typically from a nib.
     }
