@@ -22,6 +22,7 @@
 		7F18958A1F3C934A00BBAA6E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7F18958D1F3C934A00BBAA6E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7F18958F1F3C934B00BBAA6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7FA36B011F3C9E0200326032 /* Certificate Agency (CA).cer */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Certificate Agency (CA).cer"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				7F18958A1F3C934A00BBAA6E /* Assets.xcassets */,
 				7F18958C1F3C934A00BBAA6E /* LaunchScreen.storyboard */,
 				7F18958F1F3C934B00BBAA6E /* Info.plist */,
+				7FA36B011F3C9E0200326032 /* Certificate Agency (CA).cer */,
 			);
 			path = ForGitHub;
 			sourceTree = "<group>";
@@ -304,6 +306,7 @@
 				7F1895941F3C934B00BBAA6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

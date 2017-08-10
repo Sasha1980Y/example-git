@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         
         // initial commit
         let commit = "initial commit"
-        
+        print("commit")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
