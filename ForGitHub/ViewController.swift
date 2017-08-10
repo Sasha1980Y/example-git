@@ -27,6 +27,9 @@ class ViewController: UIViewController {
         print("2 not add command new branch")
         
         
+        print("to origin after new branch")
+        
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
